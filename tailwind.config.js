@@ -13,6 +13,28 @@ module.exports = {
         sans: ["var(--font-sans)"],
         mono: ["var(--font-mono)"],
       },
+      colors : {
+        navbar : {
+          primary: "#69F92F",
+          secondary: "#9CF978",
+          text: "#000000",
+        },
+        button : {
+          primary: "#69F92F",
+          secondary: "#9CF978",
+          text: "#000000",
+        },
+        footer : {
+          primary: "#69F92F",
+          secondary: "#9CF978",
+          text: "#000000",
+        },
+        card : {
+          primary: "#69F92F",
+          secondary: "#9CF978",
+          text: "#000000",
+        },
+      },
     },
   },
   darkMode: "class",

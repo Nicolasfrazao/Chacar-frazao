@@ -6,49 +6,49 @@ export const siteConfig = {
   navItems: [
     {
       label: "Fotos",
-      href: "/docs",
+      link: "/docs",
     },
     {
       label: "Preços",
-      href: "/preço",
+      link: "/preço",
     },
     {
       label: "Dias Disponíveis",
-      href: "/blog",
+      link: "/blog",
     },
     {
       label: "Sobre nos",
-      href: "/about",
+      link: "/about",
     },
   ],
   navMenuItems: [
     {
       label: "Perfil",
-      href: "/profile",
+      link: "/profile",
     },
     {
       label: "Preços",
-      href: "/dashboard",
+      link: "/dashboard",
     },
     {
       label: "Fotos",
-      href: "/projects",
+      link: "/projects",
     },
     {
       label: "Calendario",
-      href: "/calendar",
+      link: "/calendar",
     },
     {
       label: "Configuração",
-      href: "/settings",
+      link: "/settings",
     },
     {
       label: "Ajuda",
-      href: "/help-feedback",
+      link: "/help-feedback",
     },
     {
       label: "Registrar",
-      href: "/logout",
+      link: "/logout",
     },
   ],
   links: {
